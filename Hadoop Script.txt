@@ -1,0 +1,20 @@
+#----log in----
+ssh -X 18053479@poincare.mmu.ac.uk
+#type password
+
+#-----Set up Hadoop-----
+#create directory to work from
+hdfs dfs -mkdir yelp-cw
+hdfs dfs -get /user/msc/datasets/yelp/review.json ~/yelp-cw
+hdfs dfs -get /user/msc/datasets/yelp/business.json ~/yelp-cw
+hdfs dfs -get /user/msc/datasets/yelp/user.json ~/yelp-cw
+hdfs dfs -ls yelp-cw
+
+#----Set up Environment Variables-----
+export SPARK_HOME=/usr/hdp/current/spark2-thriftserver
+export PYTHONPATH=\.:$PYTHONPATH:$SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.4-src.zip
+export SPARK_MAJOR_VERSION=2
+export PYSPARK_DRIVER_PYTHON=ipython3
+
+#---- BEGIN EDA ---
+pyspark

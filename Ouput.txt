@@ -1,0 +1,67 @@
+#----Question 1----
+Out: 4011 
+Out: 
+[
+('und_IbRFr2Rwpizt-kfZuw',
+  {'business_id': 'upgjUq616Yz1IvAvysDLWA',
+   'cool': 40,
+   'date': '2017-09-08',
+   'funny': 25,
+   'stars': 5,
+   'text': 'Great food!\n\nThis restaurant isn\'t located on the Strip... this place isn\'t Hash House A Go Go, Momofuku, Wicked Spoon nor is it Eggslut (although I\'ve bookmarked those places for future visits) but because of that it doesn\'t have the food prices you pay when dining at the Strip. Get it? For a little over $20 we were able to fill our tummies with delicious food.\n\nI had Ely\'s Burger. Beef, cheese, grilled onions, mushrooms, lettuce, tomato and mayo... hold the pickles and red onion, please. The meal came with crinkle-cut fries. I love the mushrooms in this burger. Tasty and delicious!  Hubby had the Bacon (or Sausage) Skillet. He scarfed it down... no need to ask him if he enjoyed his meal. \n\nThis place has a casual dining atmosphere, nothing fancy. They serve classic American food, breakfast, lunch, and dinner. Great, affordable prices. Our table was well taken care of. Very attentive servers but not overly. They were friendly and nice. Hubby loves wearing his GS Warriors shirts and it always gets attention from sports fans when we go places. Had engaged in a convo with the server who also processed our bill (Lakers fan). Then, I\'m not sure if it was the owner that said to me as we were leaving... "review us in Yelp" (now how did he know I Yelp??). Worth coming back to when we\'re in town again :)\n\nReview #0835',
+   'useful': 47,
+   'user_id': 'Hm0diOkWwpo9zotlJlqMUQ'}),
+   
+ ('yD_zR37iwd_zqonHEhnjTg',
+  {'business_id': 'I6ICIIZfZsp_J9hHmfhWhQ',
+   'cool': 43,
+   'date': '2017-09-09',
+   'funny': 25,
+   'stars': 4,
+   'text': "Parking fees in casinos on the Strip\n\nLove coming to Vegas. We used to frequent visiting Sin City, sometimes three times a year, but lately have slowed down and this year, 2017, was our first time back in Vegas since Feb 2016! wow! has it been that long... no wonder I was longing for it in this last mini getaway! Anyway, found out that many of the casinos have done away with the free parking! The good old days of plentiful free parking at casinos ended in 2016. Bummer! Wait, I take that back... I think some casinos offer 0-60 mins free parking. It's true that parking garages here are so abundant but unless you're staying at or patronizing the resort you have to fork out $ for parking fees. Now it's all about parking in one spot, pay the fees, and walk, walk, walk... I suppose one can take the monorails too. \n\nWhile I'm done ranting about the newly imposed parking fees (new to me, at least) I do enjoy walking around the Strip. I'm not talking about from one end to another. I enjoyed it best during Pacquiao's fights held at the MGM (held usually in May). Hubby and I come to Vegas to celebrate our birthdays around that time. Loved the hype it brought. I also enjoyed the outdoor shows... Treasure Island, The Mirage and Bellagio. \n\nAnd damn those Las Vegas card flickers. If you've ever been to Vegas, you know what I'm talking about. Although, I didn't see any this time while walking around Treasure Island and crossing over to Wynn. Are they gone now?\n\nIf flying in Vegas one can see the Strip with all the lights as your plane is about to land. I always look for either the Stratosphere (The tallest observation tower in the U.S.) or the light beam from the Luxor on the southern end (the Luxor Sky Beam is the strongest beam of light in the world). I look for these landmarks when our plane is about to descend at McCarran Int'l Airport. Lots of car traffic as well as foot traffic on the Strip. Lots of lights. Lots of tourists. Lots of shops, restaurants, bars and lounges. This place comes alive on weekends.  What happens in Vegas stays in... Facebook, IG, and Snapchat (nowadays). Be mindful :)\n\nReview #0838",
+   'useful': 49,
+   'user_id': 'Hm0diOkWwpo9zotlJlqMUQ'}),
+   
+ ('97IZVVITgjSgNJ44vneHFg',
+  {'business_id': 'aSGCy2a57p-vdY8pHVu5Kg',
+   'cool': 23,
+   'date': '2014-01-23',
+   'funny': 22,
+   'stars': 5,
+   'text': 'This is the busiest Walgreens I ever been to, there are good reason why.  First of is located in the Las Vegas Strip, it between Palazzo and Venetian.  Just next to the popular Tao Night Club.  This is the place to get you food, water and other important items restocked.  Eating and drinking is pricey in the Strip, you can save tons of money just shopped here, and just aware that most hotel in the strip does not had microwave or the fridge unless you got a suite type of room.\n\nPrice is slight higher than what you fight in most other Walgreen, but is understand since the high cost of the strip in general, even a foot long subway cost $10, but you still manage to find 99 cents Arizona Tea in here.   If you wanted to eat a nice buffet later of the day, this is good place to get you breakfast and late night snack fix without had to spend much.  Save those money can use more in party and gamble =)',
+   'useful': 32,
+   'user_id': 'IS9yw8P2uAPBX6FNLLX4KA'})
+   ]
+
+#----- Question 2 ------
+Out: 
+['Strip Gun Club',
+ "Lion's Den",
+ 'Indian Theme Bistro印第安啤酒屋',
+ 'Hookah2Go',
+ 'J Karaoke Bar',
+ 'Mr. Shesha Vegas',
+ "Magoo's Hideaway",
+ 'King of Nightclubs',
+ 'Jack Daniels Lounge - T-Mobile Arena',
+ 'ATF Shisha/Hookah Lounge']
+Out: 382
+
+#----- Question 3 ------
+Out:                                                                        
+[('qmjoMFMZdLH69_6eGTGDZw', 22),
+ ('nqMG01GBhD381FKn0hixow', 20),
+ ('VVimjPD7f8O5D1fhy5vSpw', 20),
+ ('GxkY7BqazkQu6I9HBDpbqQ', 19),
+ ('pJyV8I6JsKG_iSzPLvb5AA', 19),
+ ('Rg3C1gCJsyshSpp-35HLbQ', 19),
+ ('xN-xoLhTHUFfTS_BMGG0xg', 17),
+ ('pFRE2mNCQvx9DUU542c6Dw', 16),
+ ('z_9oeZ5aN8g8AzPNENht8w', 15),
+ ('IxiVty8zfZC093jiaFaG3A', 13)]
+
+#----- Question 4 ------
+Out: [('All', 29.344745234337353)]
+Out: [('Active', 60.63598243381744)]
+Out: [('Nonactive', 0.9990169574834111)]   
+
